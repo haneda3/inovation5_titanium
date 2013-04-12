@@ -1,0 +1,3 @@
+[submodule "Resources/HTML"]
+	path = Resources/HTML
+	url = https://github.com/haneda3/inovation5.git
